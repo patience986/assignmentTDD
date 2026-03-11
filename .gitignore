@@ -1,0 +1,28 @@
+# Node modules (very important)
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# Jest cache
+.jest-cache
+
+# Temporary files
+tmp/
+temp/
+
+# IDE folders
+.vscode/
+.idea/
